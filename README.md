@@ -18,12 +18,12 @@ A simple and scalable backend system for booking tickets, built with Java. This 
 ## 🛠️ Tech Stack
 
 - **Backend:** Java 11+
-- **Framework:** (Optional: Spring Boot / Plain Java)
-- **Build Tool:** Gradle / Maven
-- **Database:** MySQL / H2 / PostgreSQL
-- **REST API:** Implemented using Java Servlets / Spring Controllers
+- **Framework:** (Eventually Spring Boot )
+- **Build Tool:** Gradle 
+- **Database:** MySQL 
+- **REST API:** Implemented using Java Servlets for now
 - **JSON Parser:** Jackson (for data serialization)
-- **ORM:** (Optional: Hibernate / JPA)
+- **ORM:** (Figuring out)
 
 ---
 
