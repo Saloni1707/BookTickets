@@ -1,12 +1,8 @@
 # 🎟️ Ticket Booking System (Backend - Java)
-
-A simple and scalable backend system for booking tickets, built with Java. This project handles core functionalities like managing users, events, and ticket reservations.
-(Here this is still under development :)
 ---
-
+This is a backend focused project built to understand how java is used for backend
 ## 🚀 Features
 
-- ✅ User registration & login
 - ✅ View available events/shows
 - ✅ Book tickets 
 - ✅ Cancel tickets
@@ -15,17 +11,6 @@ A simple and scalable backend system for booking tickets, built with Java. This 
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Backend:** Java 11+
-- **Framework:** (Eventually Spring Boot )
-- **Build Tool:** Gradle 
-- **Database:** MySQL 
-- **REST API:** Implemented using Java Servlets for now
-- **JSON Parser:** Jackson (for data serialization)
-- **ORM:** (Figuring out)
-
----
 
 ## 📁 Project Structure
 
